@@ -1,0 +1,1 @@
+Loading and excecuting is an essential part of every operating system. To run anything on a comuter one it must first load the program or file. he operating system reads the file and some or all of the program is moved onto the memory. Only then can a file be executed and run on your computer. 
